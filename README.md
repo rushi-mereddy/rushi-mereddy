@@ -7,4 +7,7 @@
 
 ![Rushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushi-mereddy&show_icons=true&theme=dark&show-icons=true&count_private=true)
 
-https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
+![stats](https://github-profile-trophy.vercel.app/?username=rushi-mereddy)
+
+![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+
