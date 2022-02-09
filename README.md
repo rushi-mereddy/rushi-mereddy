@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rushi-mereddy
 - 👀 I’m interested in web designing and cyber security
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently getting expertise in web development
 - 💞️ I’m looking to collaborate on front-end web development
 - 📫 How to reach me mereddyrushi@gmail.com
 
