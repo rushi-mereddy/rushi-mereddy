@@ -3,7 +3,7 @@
 - 🌱 I’m currently getting expertise in web development
 - 💞️ I’m looking to collaborate on front-end web development
 - 📫 How to reach me mereddyrushi@gmail.com <br>
-     <a href="https://rushi-mereddy.github.io/profile" target="_blank" style="color: red;"> Here's my profile link </a>
+     <a href="https://rushi-mereddy.github.io/profile"> Here's my profile link </a>
 
 ![Rushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushi-mereddy&show_icons=true&theme=dark&show-icons=true&count_private=true)
 
