@@ -7,7 +7,7 @@ Web developer
 * 🌍  I'm based in Hyderabad, India
 * 🖥️  See my portfolio at [My Portfolio](http://rushi-mereddy.github.io/profile/)
 * ✉️  You can contact me at [mereddyrushi@gmail.com](mailto:mereddyrushi@gmail.com)
-* 🧠  I'm learning React js
+
 * 🤝  I'm open to collaborating on Front end web development
 
 ### Skills
