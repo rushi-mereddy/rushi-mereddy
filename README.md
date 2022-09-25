@@ -1,4 +1,4 @@
-Hi 👋 My name is Rushikesh
+Hi 👋 I'm Rushikesh
 ==========================
 
 Web developer
