@@ -39,6 +39,6 @@ Web developer
 
 <a href="http://www.github.com/rushi-mereddy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rushi-mereddy&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/rushi-mereddy"><img src="https://activity-graph.herokuapp.com/graph?username=rushi-mereddy&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--<a href="http://www.github.com/rushi-mereddy"><img src="https://activity-graph.herokuapp.com/graph?username=rushi-mereddy&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
 
 <!-- <a href="https://github.com/rushi-mereddy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushi-mereddy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  -->
